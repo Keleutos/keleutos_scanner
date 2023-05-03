@@ -1,0 +1,3 @@
+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
+
+https://git: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@github.com/Keleutos/keleutos_scanner
