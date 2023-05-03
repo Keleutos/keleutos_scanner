@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   google_mlkit_text_recognition: ^0.5.0
-  intl: ^0.18.1
+  intl: ^0.17.0
   permission_handler: ^10.2.0
 
 dev_dependencies:
